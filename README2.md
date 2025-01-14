@@ -31,7 +31,6 @@ python -m venv xray_env
 
 # Activate Virtual Environment
 xray_env\Scripts\activate
-# py -3.11 -m venv xray_env
 
 # Install Dependencies
 pip install -r requirements.txt
